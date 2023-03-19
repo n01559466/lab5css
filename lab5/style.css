@@ -1,0 +1,51 @@
+
+  
+  header img {float: left; }
+  
+ header h2 {
+  text-align: center;
+  color: orange; 
+  font-size: 300%; 
+  text-shadow: 2px 2px 2px black;}
+  
+  header h3 { 
+ font-size:170%; 
+ text-align:center; }
+
+
+  main {
+  clear: left; }
+  
+  main h1 { font-size: 130%;}
+  
+  
+ main h1:first-child::first-letter {font-size: 200%; }
+  
+  
+  main h2 { font-size:160%; 
+  color:black;
+  text-align:left;
+  text-shadow:none; } 
+  
+  
+  main h3 { text-align:left;
+  font-size: 130%; }
+   
+    a:link { 
+    color:orange;
+    }
+     a:visited {
+    color:black;
+    }
+    
+    a:hover {
+    color:green;
+    } 
+  
+  ul {line-height:1.5 }
+  
+  li { font-weight:bold;
+  font-size: 110%; } 
+  
+  
+ 
